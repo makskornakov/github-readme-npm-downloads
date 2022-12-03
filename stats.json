@@ -1,8 +1,9 @@
 {
   "schemaVersion": 1,
   "message": "357 Downloads",
+  "labelColor": "lightgrey",
   "label": "",
   "color": "brightgreen",
-  "style": "flat&logo=appveyor",
+  "style": "flat",
   "namedLogo": "npm"
 }
