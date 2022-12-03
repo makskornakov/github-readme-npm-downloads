@@ -8,8 +8,7 @@ All of my npm packages and their downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                           | Downloads |
-| -------------------------------------------------------------- | --------- |
-| [canvas-trading](https://www.npmjs.com/package/canvas-trading) | 357       |
-| **Sum**                                                        | **357**   |
+| Name    | Downloads |
+| ------- | --------- |
+| **Sum** | **0**     |
 <!-- AUTO-GENERATED-CONTENT:END -->
