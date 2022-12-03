@@ -3,6 +3,6 @@
   "message": "357 Downloads",
   "label": "",
   "color": "brightgreen",
-  "style": "flat",
+  "style": "flat&logo=appveyor",
   "namedLogo": "npm"
 }
