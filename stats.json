@@ -1,6 +1,7 @@
 {
   "schemaVersion": 1,
   "message": "357 Downloads",
+  "label": "",
   "color": "brightgreen",
   "style": "flat",
   "namedLogo": "npm"
