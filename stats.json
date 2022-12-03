@@ -1,8 +1,7 @@
 {
   "schemaVersion": 1,
-  "label": "NPM",
   "message": "357 Downloads",
-  "color": "orange",
-  "style": "for-the-badge",
+  "color": "success",
+  "style": "flat",
   "namedLogo": "npm"
 }
