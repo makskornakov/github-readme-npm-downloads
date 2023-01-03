@@ -10,6 +10,6 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                           | Downloads |
 | -------------------------------------------------------------- | --------- |
-| [canvas-trading](https://www.npmjs.com/package/canvas-trading) | 1553      |
-| **Sum**                                                        | **1553**  |
+| [canvas-trading](https://www.npmjs.com/package/canvas-trading) | 1558      |
+| **Sum**                                                        | **1558**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
