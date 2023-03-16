@@ -8,8 +8,9 @@ All of my npm packages and their downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                           | Downloads |
-| -------------------------------------------------------------- | --------- |
-| [canvas-trading](https://www.npmjs.com/package/canvas-trading) | 1734      |
-| **Sum**                                                        | **1734**  |
+| Name                                                             | Downloads |
+| ---------------------------------------------------------------- | --------- |
+| [canvas-trading](https://www.npmjs.com/package/canvas-trading)   | 1735      |
+| [rubber-checkbox](https://www.npmjs.com/package/rubber-checkbox) | 0         |
+| **Sum**                                                          | **1735**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
