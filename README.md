@@ -11,6 +11,6 @@ All of my npm packages and their downloads
 | Name                                                             | Downloads |
 | ---------------------------------------------------------------- | --------- |
 | [canvas-trading](https://www.npmjs.com/package/canvas-trading)   | 1865      |
-| [rubber-checkbox](https://www.npmjs.com/package/rubber-checkbox) | 104       |
-| **Sum**                                                          | **1969**  |
+| [rubber-checkbox](https://www.npmjs.com/package/rubber-checkbox) | 105       |
+| **Sum**                                                          | **1970**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
