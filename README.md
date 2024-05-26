@@ -8,9 +8,11 @@ All of my npm packages and their downloads
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
-| Name                                                             | Downloads |
-| ---------------------------------------------------------------- | --------- |
-| [canvas-trading](https://www.npmjs.com/package/canvas-trading)   | 2420      |
-| [rubber-checkbox](https://www.npmjs.com/package/rubber-checkbox) | 153       |
-| **Sum**                                                          | **2573**  |
+| Name                                                 | Downloads                                                                            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [error](https://www.npmjs.com/package/error)         | Internal Server Error                                                                |
+| [path](https://www.npmjs.com/package/path)           | /npm-stat/api/download-counts                                                        |
+| [status](https://www.npmjs.com/package/status)       | 0                                                                                    |
+| [timestamp](https://www.npmjs.com/package/timestamp) | 2024-05-26T00:23:42.490+00:00                                                        |
+| **Sum**                                              | **Internal Server Error/npm-stat/api/download-counts02024-05-26T00:23:42.490+00:00** |
 <!-- AUTO-GENERATED-CONTENT:END -->
