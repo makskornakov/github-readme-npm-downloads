@@ -10,7 +10,7 @@ All of my npm packages and their downloads
 <!-- AUTO-GENERATED-CONTENT:START (PACKAGES) -->
 | Name                                                             | Downloads |
 | ---------------------------------------------------------------- | --------- |
-| [canvas-trading](https://www.npmjs.com/package/canvas-trading)   | 2669      |
+| [canvas-trading](https://www.npmjs.com/package/canvas-trading)   | 2671      |
 | [rubber-checkbox](https://www.npmjs.com/package/rubber-checkbox) | 247       |
-| **Sum**                                                          | **2916**  |
+| **Sum**                                                          | **2918**  |
 <!-- AUTO-GENERATED-CONTENT:END -->
